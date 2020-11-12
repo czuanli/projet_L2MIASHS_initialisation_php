@@ -1,0 +1,75 @@
+body{
+	font-family: arial;
+}
+
+.tablemenu{
+	width:100%;
+	opacity: 0.8;
+}
+.logo{
+	display: block;
+	height: auto;
+	max-width:100%;
+	margin:auto;
+	opacity: 0.95;
+}
+
+					/* CSS POUR LE MENU*/
+
+/* supprimer puces de la liste non ordonnée*/
+.menu{
+	padding: 0px;
+	margin: :0px;
+	list-style-type: none;
+	background-color: #191970;
+	text-align: center;
+}
+
+/*on va forcer la liste à se mettre en ligne*/
+.menu li {
+	display : inline-block;
+	width:100px;
+	height:30px;
+	line-height: 30px;
+	margin: 5px;
+	padding: 4px;
+	border-left: 1px solid white;
+	border-right: 1px solid white;
+}
+
+/*lien*/
+}
+ .menu li a {
+ 	display: block;
+	text-decoration: none;
+	color: white;
+}
+
+.menu a:link{
+	text-decoration: none;
+	color:white;
+}
+/*lien visité*/;
+.menu a:visited{
+	color :white;
+}
+/*lien survolés*/
+.menu a:hover{
+	color : red;
+}
+
+.footer{
+	width:100%;
+	opacity: 0.8;
+	padding: 0px;
+	margin: :0px;
+	background-color: #191970;
+	text-align: center;
+	color:white;
+}
+
+.logofooter{
+	width: 30px;
+	height: 30px;
+	vertical-align: center;
+}

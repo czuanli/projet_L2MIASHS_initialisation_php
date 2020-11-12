@@ -1,0 +1,16 @@
+
+legend{
+	text-align: center;
+	font-size: xx-large;
+	color: #00326e;
+}
+
+fieldset{
+	border-radius: 30px;
+}
+
+.fond{
+	border:1px solid black;
+	background-color: white;
+	opacity: 0.9;
+}

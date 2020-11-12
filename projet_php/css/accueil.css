@@ -1,0 +1,101 @@
+    					/*CSS DU DIAPORAMA*/
+    					
+.imgPrin{
+  max-width: 75%;
+  margin: auto;
+  padding: auto;
+}
+
+#Slide1{
+  width : 100%;
+  display:none;
+}
+
+#Slide2{
+  width : 100%;
+  display:none;
+}
+
+#Slide3{
+  width : 100%;
+  display:none;
+}
+
+#Slide4{
+  width : 100%;
+  display:none;
+}
+
+.imgSection{
+  width: 80%;
+  margin: 0 auto;
+}
+
+#imgop{
+  display:block;
+  width: 100%; 
+  margin: 0 auto;
+  vertical-align: middle;
+  opacity: .7;
+}
+/* forme du curseur */
+#imgop{
+  cursor : pointer;
+}
+
+						/* CSS du tableau headerSite*/
+
+.headerSite table{
+	width : 100%;
+	margin: 10px 0;
+	border: 1px solid #191970;
+}
+
+/**/
+.headerSite th{
+	text-align: left;
+	font-size : large;
+	background-color: #191970;
+	color : white;
+	opacity: 0.8;
+}
+
+.texteDeBienvenue{
+	background-color: white;
+	opacity: 0.75;
+}
+
+.quote{
+	width : 300px;
+	margin : 0 auto;
+}
+
+.slogan{
+	text-align: left;
+	font-style: italic;
+}
+
+
+
+						/*CSS du tableau Promotions*/
+
+.Promotions table{
+	width: 100%;
+	border : 1px solid #191070;
+	opacity: 0.8;
+}
+
+.Promotions th{
+	text-align: left;
+	font-size : large;
+	background-color: #191970;
+	color : white;
+}
+
+.point{
+	text-align: center;
+}
+
+.textPromo {
+	background-color: #F0FFFF;
+}

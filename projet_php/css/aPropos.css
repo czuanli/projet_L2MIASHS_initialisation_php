@@ -1,0 +1,32 @@
+#stPartie{
+	width : 45%;
+	float :left;
+}
+
+#ndPartie{
+	width : 50%;
+	float :right;
+}
+
+.map{
+	width:600px;
+	height:175px; 
+	border:0; 
+}
+.tableau{
+	text-align: center;
+	border:1px solid black;
+	background-color: white;
+	opacity: 0.9;
+	width: 100%;
+}
+
+th{
+	background-color: #00326e;
+	color: #D4AC0D;
+}
+
+#imgspe{
+	width: 70px;
+	height: 70px;
+}
